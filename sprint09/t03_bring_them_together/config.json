@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "user": "vmelekhova",
+    "database": "ucode_web",
+    "password": "securepass",
+    "multipleStatements": true
+}
